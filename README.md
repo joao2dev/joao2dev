@@ -25,13 +25,13 @@ Sou extremamente dedicado, organizado e reconhecido pelos meus professores como 
 ---
 
 ### 🌟 Objetivo
-Atuar como **Desenvolvedor Front-End Junior**, contribuindo com projetos reais e evoluindo junto com a equipe. Busco transformar ideias em interfaces funcionais e impactantes.
+Atuar como **Desenvolvedor Full-Stack**, contribuindo com projetos reais e evoluindo junto com a equipe. Busco transformar ideias em interfaces funcionais e impactantes.
 
 ---
 
 ### 📫 Onde me encontrar
-📌 *GitHub*: **https://github.com/seuusuario**  
-📌 *LinkedIn*: *(se tiver, me diga e eu adiciono aqui)*  
+📌 *GitHub*: **https://github.com/joao2dev**  
+📌 *LinkedIn*: *https://www.linkedin.com/in/jo%C3%A3o-guilherme-216810229/*  
 
 ---
 
