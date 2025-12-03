@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o João Guilherme
 
-Sou desenvolvedor Full-End em formação, atualmente finalizando o curso técnico em **Desenvolvimento de Sistemas**. Tenho interesse em criar **interfaces modernas, eficientes e focadas na experiência do usuário**, unindo tecnologia e design.
+Sou desenvolvedor Full-Stack em formação, atualmente finalizando o curso técnico em **Desenvolvimento de Sistemas**. Tenho interesse em criar **interfaces modernas, eficientes e focadas na experiência do usuário**, unindo tecnologia e design.
 
 Sou extremamente dedicado, organizado e reconhecido pelos meus professores como um dos alunos mais empenhados e de melhor desempenho em programação. Gosto de aprender rápido, colocar a mão na massa e evoluir continuamente.
 
