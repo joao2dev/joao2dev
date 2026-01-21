@@ -1,38 +1,45 @@
 ## 👋 Olá! Eu sou o João Guilherme
 
-Sou desenvolvedor Back-end em formação, atualmente finalizando o curso técnico em **Desenvolvimento de Sistemas**. Tenho interesse em criar **interfaces modernas, eficientes e focadas na experiência do usuário**, unindo tecnologia e design.
+Sou **Desenvolvedor Back-end em formação**, com foco em **Java** e na construção de aplicações bem estruturadas, escaláveis e fáceis de manter. Concluí o curso técnico em **Desenvolvimento de Sistemas** e estou em constante evolução na área de engenharia de software.
 
-Sou extremamente dedicado, organizado e reconhecido pelos meus professores como um dos alunos mais empenhados e de melhor desempenho em programação. Gosto de aprender rápido, colocar a mão na massa e evoluir continuamente.
+Tenho perfil analítico, gosto de entender o funcionamento interno das aplicações e me preocupo com **boas práticas, organização de código e lógica bem definida**. Busco aprender principalmente por meio de projetos práticos, simulando desafios reais do mercado.
 
-### 🚀 Tecnologias que utilizo
+---
+
+### 🚀 Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📚 O que estou estudando no momento
-- Práticas de Front-End (UX, responsividade e boas práticas de código)
-- Java e lógica de programação
-- Desenvolvimento de páginas com foco em conversão e performance
-- Aperfeiçoamento em Git e workflows colaborativos
+### 📚 Atualmente estudando
+- Java (POO, boas práticas e estruturação de projetos)
+- Spring Boot e fundamentos de APIs REST
+- Banco de dados relacionais (MySQL)
+- Git e versionamento colaborativo
+- Conceitos de Back-end e arquitetura de software
+
+---
+
+### 🧩 Projetos
+> Em breve.
 
 ---
 
 ### 🌟 Objetivo
-Atuar como **Desenvolvedor Full-Stack**, contribuindo com projetos reais e evoluindo junto com a equipe. Busco transformar ideias em interfaces funcionais e impactantes.
+Atuar como **Desenvolvedor Back-end (Estágio ou Júnior)**, contribuindo com soluções bem estruturadas, aprendendo com projetos reais e evoluindo tecnicamente dentro de uma equipe.
 
 ---
 
 ### 📫 Onde me encontrar
-📌 *GitHub*: **https://github.com/joao2dev**  
-📌 *LinkedIn*: *https://www.linkedin.com/in/jo%C3%A3o-guilherme-216810229/*  
+📌 **GitHub**: https://github.com/joao2dev  
+📌 **LinkedIn**: https://www.linkedin.com/in/jo%C3%A3o-guilherme-216810229/
 
 ---
 
-✨ *“Código bom não é apenas funcional, é elegante e pensado para quem vai usar.”*
+✨ *“Código limpo, organizado e bem pensado é o que sustenta sistemas de verdade.”*
