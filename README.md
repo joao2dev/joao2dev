@@ -27,7 +27,7 @@ Tenho perfil analítico, gosto de entender o funcionamento interno das aplicaç�
 ---
 
 ### 🧩 Projetos
-> Em breve.
+> HqsWiki: https://github.com/joao2dev/HQsWiki
 
 ---
 
