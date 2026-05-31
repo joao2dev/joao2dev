@@ -1,6 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=João%20Guilherme&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20%7C%20Mobile&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)](https://github.com/joao2dev)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=João%20Guilherme&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)](https://github.com/joao2dev)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Always+learning+new+things;Building+modern+web+%26+mobile+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Always+learning+new+things;Building+robust+%26+scalable+APIs)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-beneficil57%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117)](mailto:beneficil57@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joão--guilherme-161b22?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0d1117)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-216810229/)
@@ -14,28 +14,28 @@
 
 ## 🧑‍💻 About Me
 
-*Desenvolvedor apaixonado por criar aplicações web e mobile modernas, sempre buscando aprender novas tecnologias e boas práticas.*
+*Desenvolvedor backend apaixonado por construir APIs robustas e escaláveis, sempre buscando aprender novas tecnologias e boas práticas.*
 
-- 🔭 Focado em **Web & Mobile Development**
-- 🌱 Sempre evoluindo minhas skills de **Full Stack**
-- 💡 Interessado em **Software Engineering, UI/UX e Cloud**
+- 🔭 Focado em **Backend Development com Java & Spring Boot**
+- 🌱 Sempre evoluindo minhas skills em **arquitetura de APIs e microsserviços**
+- 💡 Interessado em **Software Engineering, Cloud e DevOps**
 - 📫 Me encontre em **beneficil57@gmail.com**
 
 ---
 
 ## 🛠️ Technology Stack
 
-#### 🌐 Frontend
+#### ☕ Backend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
 
-#### ⚙️ Backend & Database
+#### 🗄️ Database
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,java,mysql&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 
 #### 🧰 Tools & Platforms
 
-[![Tools](https://skillicons.dev/icons?i=docker,vscode,git,github&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,idea,postman,git,github&theme=dark)](https://skillicons.dev)
 
 ---
 
