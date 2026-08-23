@@ -32,6 +32,15 @@
 <h2 data-importer="text" align="center">📊 WakaTime Stats</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 August 2026 - To: 23 August 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h2 data-importer="text" align="center">📈 GitHub Stats</h2>
