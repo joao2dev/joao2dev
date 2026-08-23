@@ -44,11 +44,9 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao2dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<div data-importer="stats" align="center">
-<img src="https://github-readme-stats-git-master-joao2devs-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="302" alt="stats graph" /> <br>
-<img src="https://github-readme-stats-git-master-joao2devs-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao2dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
 
 ###
 
