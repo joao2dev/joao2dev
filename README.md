@@ -4,7 +4,7 @@
 
 <p data-importer="text" align="left">I'm a Back-end Devloper!</p>
 
-<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning SQL<br>🎯 Goals: Become Dev Back-End<br>🎲 Fun fact: i love Java.</p>
+<p data-importer="text" align="left">✨ Building robust backends since <b>2023</b><br>📚 Currently diving into <b>Microservices & Cloud Architecture</b><br>🎯 Goals: <b>Master DevOps & Scalable APIs</b><br>🎲 Passion: <b>Java & Spring Boot</b></p>
 
 <h2 data-importer="text" align="center">SKILLS</h2>
 
