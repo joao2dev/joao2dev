@@ -43,20 +43,12 @@
 ###
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 16 August 2026 - To: 23 August 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <div data-importer="stats" align="center">
- <img src="https://github-readme-stats-git-master-joao2devs-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="302" alt="stats graph" /> <br>
+<img src="https://github-readme-stats-git-master-joao2devs-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="302" alt="stats graph" /> <br>
 <img src="https://github-readme-stats-git-master-joao2devs-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
