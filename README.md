@@ -1,25 +1,14 @@
 <h2 data-importer="text" align="center">About me</h2>
 
-###
-
 <img data-importer="image" align="right" height="140" src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif"  />
-
-###
 
 <p data-importer="text" align="left">I'm a Back-end Devloper!</p>
 
-###
-
 <p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning SQL<br>🎯 Goals: Become Dev Back-End<br>🎲 Fun fact: i love Java.</p>
-
-###
 
 <h2 data-importer="text" align="center">SKILLS</h2>
 
-###
-
 <br clear="both">
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -40,33 +29,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
+<h2 data-importer="text" align="center">📊 WakaTime Stats</h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao2dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao2dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
+<h2 data-importer="text" align="center">📈 GitHub Stats</h2>
 
-###
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joao2dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joao2dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages"/>
+</div>
 
 <br clear="both">
-
 <p data-importer="text" align="center">Socials</p>
-
-###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-216810229/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="beneficil57@gmail.com" target="_blank">
+  <a href="mailto:beneficil57@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
-###
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/Joao2dev/Joao2dev/snake-output/snake.svg" alt="Snake animation" />
-
-###
