@@ -1,6 +1,10 @@
 <h2 data-importer="text" align="center">About me</h2>
 
-<img data-importer="image" align="right" height="140" src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif"  />
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="170" src="https://i.pinimg.com/originals/8b/4e/92/8b4e9278b087d5d1caa271a0a4215221.gif"  />
+</div>
 
 <p data-importer="text" align="left">I'm a Back-end Devloper!</p>
 
